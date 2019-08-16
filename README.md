@@ -1,8 +1,13 @@
 #Ljetni zadatak
 
 Napravljeni sljedeći zadaci:
-1.koristen Foundation framework
-2.napravljen javni dio s početnom stranom te kontakt stranica s google maps kartom
-3.dio koda stavljen an Github
-4..napravljen README.md
-5.stavljen favicon za aplikaciju
+-koristen Foundation framework
+-napravljen javni dio s početnom stranom te kontakt stranica s google maps kartom
+-dio koda stavljen an Github
+-napravljen README.md
+-stavljen favicon za aplikaciju
+-na privatnom dijelu omogućen CRUD
+-postavljen hosting
+-postavljen kod na Github
+-na javnom dijelu postavljen link za Github
+-na privatnom dijelu postavljen link za ERA dijagram
