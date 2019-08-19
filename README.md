@@ -11,3 +11,4 @@ Napravljeni sljedeći zadaci:
 -postavljen kod na Github
 -na javnom dijelu postavljen link za Github
 -na privatnom dijelu postavljen link za ERA dijagram
+-postavljena dva korisnika za autorizaciju
